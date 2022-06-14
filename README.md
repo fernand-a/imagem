@@ -9,15 +9,15 @@ Inicio
     matriz [linha][coluna]=[16][16]
     escolha uma cor 
     branco, preto, vermelho ou bege
-    enquanto l < 16 faça 
+    enquanto linha < 16 faça 
     informe os elementos conforme a linha 
-    enquanto c < 16 faça 
+    enquanto coluna < 16 faça 
     matriz [linha][coluna]
     fim enquanto
     fim enquanto
-    enquanto l < 16 faça
+    enquanto linha < 16 faça
     informe a linha
-    enquanto c < 16
+    enquanto coluna < 16
     exibe matriz [linha][coluna]
     fim enquanto
     fim enquanto
