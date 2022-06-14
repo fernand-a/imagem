@@ -12,7 +12,7 @@ public class imagem {
 		
 		// exibicao do texto na tela
 		System.out
-				.println("escolha as cores conforme o numero\n-branco = 0\n-preto = 1\n-vermelho = 2\n-bege = 3");
+		.println("escolha as cores conforme o numero\n-branco = 0\n-preto = 1\n-vermelho = 2\n-bege = 3");
 				
 		// laço de repetição
 		for (x = 0; x < 16; x++) {
